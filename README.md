@@ -1,7 +1,7 @@
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Senior Blockchain | Full stack developer</h2>
 
   <p>
-    <img align="right" width="400" src="business-5475661_1920.jpg" />
+    <img align="right" width="300" src="business-5475661_1920.jpg" />
   </p>
   <p>
   
@@ -109,7 +109,7 @@ Hi. I am rich experienced and professional full stack & blockchain developer wit
 <div align="center">
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 <p>
-Email: darkrut22@gmail.com<br/>
+Email: greenland712@outlook.com<br/>
 </p>
 </div>
 -->
