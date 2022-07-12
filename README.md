@@ -15,7 +15,7 @@ Hi. I am rich experienced and professional full stack developer with 6+ years of
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Full-Stack%20Software%20engineer;10+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
 </p>
-<b> 🎬 I am ready to start your project right now.</b>
+<b> 🎬 I am ready to start your project immediately.</b>
 <br />
 <br />
 💳 My Skills
