@@ -1,4 +1,7 @@
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Senior Full stack developer</h2>
+<p align="center">
+  <a href="https://github.com/BestGoal">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=FullStack%20Developer;Web%20and%20ECommerce%20master;6%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
 
   <p>
     <img align="right" width="300" src="business-5475661_1920.jpg" />
