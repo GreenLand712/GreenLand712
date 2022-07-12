@@ -102,9 +102,6 @@ Hi. I am rich experienced and professional full stack developer with 6+ years of
   <img src = "https://github-readme-stats.vercel.app/api?username=perfectdev0712&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_title=true"> 
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=perfectdev0712&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true">
 </p>
-<a href="https://github.com/WhiteNightDeveloper/WhiteNightDeveloper">
-  <img alt="perfectdev000's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=perfectdev0712&bg_color=22222E&color=DDDD66&line=00FFFF&point=0000FF&hide_title=true"/>
-</a>
   
 </p>
 </details>
