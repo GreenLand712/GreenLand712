@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/BestGoal">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=FullStack%20Developer;Web%20and%20ECommerce%20master;6%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Web%20and%20ECommerce%20master;6%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
   <p>
@@ -105,11 +105,11 @@ Hi. I am rich experienced and professional full stack developer with 6+ years of
   
 </p>
 </details>
-<!--
+
 <div align="center">
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
-<p>
+<h2> Contact with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
+<a href="mailto:greenland712@outlook.com">
 Email: greenland712@outlook.com<br/>
-</p>
+</a>
 </div>
--->
+
