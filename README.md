@@ -1,11 +1,11 @@
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Senior Blockchain | Full stack developer</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Senior Full stack developer</h2>
 
   <p>
     <img align="right" width="300" src="business-5475661_1920.jpg" />
   </p>
   <p>
   
-Hi. I am rich experienced and professional full stack & blockchain developer with 7+ years of valuable experience in developing complex web applications (Front-End, Back-End) and blockchain projects. Familiar and adept in working with large applications, complex REST API, mobile applications using web technologies, finding out the best business and tech solutions for a project. Strong leadership skills and ability to work in a team and independently, properly distribute the load and perform tasks on time.<br><br>
+Hi. I am rich experienced and professional full stack developer with 6+ years of valuable experience in developing complex web applications (Front-End, Back-End). Familiar and adept in working with large applications, complex REST API, mobile applications using web technologies, finding out the best business and tech solutions for a project. Strong leadership skills and ability to work in a team and independently, properly distribute the load and perform tasks on time.<br><br>
   I love to code. What started as a hobby turned into a career and a great passion of mine as I love to learn new things every day. I enjoy problem solving and reverse engineering. I'm excellent at communication and a great team player.<br><br>
   🏆 I have extensive expertise in complex software development and in solving challenging problems that require a strong scientific background.</p>
 </p>
